@@ -1,2 +1,1 @@
-# .github
-Minimum gear, maximum profit
+# Minimum gear, maximum profit
